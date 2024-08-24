@@ -1,7 +1,7 @@
 ## Hi TailwindCSS Developers 👋
 
-<video src="https://github.com/user-attachments/assets/a59bc017-cea7-4a44-ad05-96c699686cb2">
-</video>
+[taildoor.webm](https://github.com/user-attachments/assets/f9999b74-d136-44dd-8d74-18454f306cbf)
+
 
 Taildoor is the essential developer tool for Tailwind CSS
 
