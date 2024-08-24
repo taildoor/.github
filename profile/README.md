@@ -7,7 +7,7 @@ Taildoor is the essential developer tool for Tailwind CSS
 
 Design, build, and fine-tune your Tailwind website visually with Taildoor — right in your browser, effortlessly.
 
-Automatically adapt to the system dark mode.
+🌙 Automatically adapt to the system dark mode.
 
 📐 Guidelines and computed regions. 
 Check element alignment.
